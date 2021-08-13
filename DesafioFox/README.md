@@ -7,6 +7,7 @@ Foi desenvolvido a API utilizando as seguintes especificações:
 --------------------------------------------------------------
 
 A API possui a rota de cadastro, listagem, busca, exclusão e atualização do usuário.
+
 A conexão com o banco se encontra no arquivo server.js
 
 --------------------------------------------------------------
